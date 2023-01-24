@@ -1,0 +1,1 @@
+import{_ as n,V as t,W as c,X as e}from"./framework-8842c3e4.js";const o="/demo/v2full.png",a={},l=e("figure",null,[e("img",{src:o,alt:"new",tabindex:"0",loading:"lazy"}),e("figcaption",null,"new")],-1),s=[l];function _(r,i){return t(),c("div",null,s)}const f=n(a,[["render",_],["__file","changed.html.vue"]]);export{f as default};

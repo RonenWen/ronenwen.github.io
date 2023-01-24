@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://wiki.wenjiaquan.com/sitemap.xml

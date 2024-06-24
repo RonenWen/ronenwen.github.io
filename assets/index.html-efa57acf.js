@@ -1,1 +1,0 @@
-import{_ as t,V as a,W as c,X as e,Y as n}from"./framework-c954d91f.js";const r={},s=e("h2",{id:"请认真阅读这里的说明-严格安装说明进行开发",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#请认真阅读这里的说明-严格安装说明进行开发","aria-hidden":"true"},"#"),n(" 请认真阅读这里的说明，严格安装说明进行开发！")],-1),o=[s];function _(d,i){return a(),c("div",null,o)}const l=t(r,[["render",_],["__file","index.html.vue"]]);export{l as default};

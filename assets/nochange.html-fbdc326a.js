@@ -1,1 +1,0 @@
-import{_ as o}from"./full-49a8608b.js";import{_ as t,V as n,W as a,X as e}from"./framework-8842c3e4.js";const c={},_=e("figure",null,[e("img",{src:o,alt:"old",tabindex:"0",loading:"lazy"}),e("figcaption",null,"old")],-1),l=[_];function s(r,i){return n(),a("div",null,l)}const m=t(c,[["render",s],["__file","nochange.html.vue"]]);export{m as default};
